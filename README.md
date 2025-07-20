@@ -51,7 +51,7 @@ An interactive travel logging app built with **React** that lets users pin citie
 
 <img width="1894" height="867" alt="Screenshot 2025-07-20 122944" src="https://github.com/user-attachments/assets/021afcf5-1388-4f3b-afec-c27262bb4ae6" />
 
-<img width="1894" height="867" alt="Screenshot 2025-07-20 122944" src="https://github.com/user-attachments/assets/3a6bd079-0e2c-4ee7-923e-9c21e1cb24a3" />
+
 
 
 ---
